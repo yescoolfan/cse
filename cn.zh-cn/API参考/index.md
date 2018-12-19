@@ -2,15 +2,15 @@
 
 -   [使用前必读](使用前必读.md)
 -   [接口简介](接口简介.md)
--   [环境准备](环境准备.md)
+-   [环境准备]
     -   [简介](简介.md)
     -   [Token认证](Token认证.md)
     -   [AK/SK认证](AK-SK认证.md)
     -   [获取项目编号](获取项目编号.md)
 
 -   [接口使用及方法](接口使用及方法.md)
--   [API说明](API说明.md)
-    -   [服务管理中心接口](服务管理中心接口.md)
+-   [API说明]
+    -   [服务管理中心接口]
         -   [查询指定微服务信息](查询指定微服务信息.md)
         -   [删除微服务定义](删除微服务定义.md)
         -   [查询所有微服务信息](查询所有微服务信息.md)
@@ -32,16 +32,16 @@
         -   [按条件查询微服务实例](按条件查询微服务实例.md)
         -   [查询微服务的所有契约](查询微服务的所有契约.md)
 
-    -   [配置管理中心接口](配置管理中心接口.md)
+    -   [配置管理中心接口]
         -   [查询配置](查询配置.md)
 
-    -   [仪表盘接口](仪表盘接口.md)
+    -   [仪表盘接口]
         -   [创建上报服务指标](创建上报服务指标.md)
         -   [创建上报事务数据](创建上报事务数据.md)
 
 
--   [公共参数](公共参数.md)
-    -   [公共请求参数](公共请求参数.md)
+-   [公共参数]
+    -   [公共请求参数]
         -   [MicroService](MicroService.md)
         -   [Properties](Properties.md)
         -   [DependencyMicroService](DependencyMicroService.md)
@@ -49,8 +49,8 @@
         -   [DataCenterInfo](DataCenterInfo.md)
         -   [Schema](Schema.md)
 
-    -   [公共响应参数](公共响应参数.md)
-    -   [参数说明](参数说明.md)
+    -   [公共响应参数]
+    -   [参数说明]
         -   [HealthCheck](HealthCheck.md)
         -   [MicroServiceInstance](MicroServiceInstance.md)
         -   [DelServicesResponse](DelServicesResponse.md)
