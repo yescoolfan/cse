@@ -49,7 +49,7 @@
         -   [DataCenterInfo](DataCenterInfo.md)
         -   [Schema](Schema.md)
 
-    -   [公共响应参数]
+    
     -   [参数说明]
         -   [HealthCheck](HealthCheck.md)
         -   [MicroServiceInstance](MicroServiceInstance.md)
