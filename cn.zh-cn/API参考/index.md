@@ -30,6 +30,7 @@
         -   [修改微服务实例状态](修改微服务实例状态.md)
         -   [发送心跳信息](发送心跳信息.md)
         -   [按条件查询微服务实例](按条件查询微服务实例.md)
+        -   [批量查询微服务实例](批量查询微服务实例.md)
         -   [查询微服务的所有契约](查询微服务的所有契约.md)
 
     -   [配置管理中心接口]
@@ -49,10 +50,13 @@
         -   [DataCenterInfo](DataCenterInfo.md)
         -   [Schema](Schema.md)
 
-    
+    -   [公共响应参数]
+        -   [Error](Error.md)
+
     -   [参数说明]
         -   [HealthCheck](HealthCheck.md)
         -   [MicroServiceInstance](MicroServiceInstance.md)
+        -   [HeartbeatSetElement](HeartbeatSetElement.md)
         -   [DelServicesResponse](DelServicesResponse.md)
         -   [MetricData](MetricData.md)
         -   [TxInfoCollection](TxInfoCollection.md)
